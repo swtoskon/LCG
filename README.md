@@ -1,1 +1,3 @@
 # LCG
+
+Linear congruential generator
